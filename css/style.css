@@ -405,11 +405,12 @@ nav.menu a:hover{
 .infos h2{
   margin-top: 8px;
   padding: 0 0;
-    font-family: 'Martel regular' ;
-    font-size: 21px;
-    text-align: start;
+  font-family: 'Martel' ;
+  font-weight: 700;
+  font-size: 21px;
+  text-align: start;
 
-    color: black;
+  color: black;
 }
 
 .infos h1{
