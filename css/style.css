@@ -668,12 +668,12 @@ footer{
 /*descriçao do produto*/
 
 .descricao h1{
-  font-family: 'Martel regular' ;
+  font-family: 'Martel' ;
   font-weight: 800;
 }
 
 .descricao p{
-  font-family: 'Martel regular' ;
+  font-family: 'Martel' ;
   font-weight: 400;
   margin-bottom: 20px;
 }
